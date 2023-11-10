@@ -1,0 +1,50 @@
+.admin-container {
+    min-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse:separate;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    border-radius: 1rem;
+  }
+  
+  th, td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: left;
+    border-radius: 1rem;
+  }
+  
+  thead {
+    background-color: #8ba5c1;
+    color: #fff;
+    border-radius: 1rem;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  th {
+    font-weight: bold;
+  }
+  
+  td {
+    color: #333;
+  }
+  
+  #leaderboard {
+    margin-top: 20px;
+  }
+  
